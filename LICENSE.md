@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 📜 License
 GNU General Public License v2.0 or later
 Show Image
